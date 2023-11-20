@@ -1,0 +1,32 @@
+/* Add your CSS styles here for colors, typography, layout, etc. */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Define your styles for header, hero section, features, etc. */
+
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(72, 72, 245, 0.8);
+    text-align: center;
+    border-radius: 10px;
+}
+.about-Edu{
+            text-align: center;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 30px;
+}
+.test-Edu{
+            text-align: center;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 30px;
+}
