@@ -8,18 +8,18 @@ Education & work  page 4 <br>
 contact info     page 5 <br> 
 </p1>
 <h2>Website content</h2>
-<p2>home page: *personal information. <br>
+<p2>home page: <br> *personal information. <br>
                *interests. <br>
-    Project Seaction: *recent Project uploads. <br>
+    Project Seaction: <br> *recent Project uploads. <br>
                       *recent project Links. <br>
                       *recent project presentation. <br>
-    Skills: *Web Development. <br>
+    Skills: <br>*Web Development. <br>
             *Data Science managment. <br>
             *Software development firmwork. <br>
-    Education & work experience: *matric Results. <br>
+    Education & work experience: <br> *matric Results. <br>
                                  *Programming module. <br>
                                  *Work References. <br>
-    Contact information: *personal Contact. <br>
+    Contact information: <br> *personal Contact. <br>
                          *Social media. <br>
                          *Additional contact information. <br>
 </p2>
