@@ -28,7 +28,7 @@ contact info     page 5 <br>
 *Github.lnc for Data engineering. <br>
 </p3>
 <h4>Website link</h4> <br>
-<p4></p4>
+<p4>https://chumavhuhwavho.github.io/chuma-profile/index1.html</p4>
 
 
 
