@@ -5,7 +5,7 @@ Home              page 1 <br>
 Project setion    page 2 <br>
 Skills            page 3 <br>
 Education & work  page 4 <br>
-contact infor     page 5 <br> 
+contact info     page 5 <br> 
 </p1>
 <h2>Website content</h2>
 <p2>home page: *personal information. <br>
